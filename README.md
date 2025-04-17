@@ -17,7 +17,7 @@ Features used:
 
 Flow Chart & Game Logic: 
 
-//click on start button  
+//click on start button    
 ----------------//are we playing?    	
 ----------------//no, we are no playing    
 ------------------------//show trials left  
