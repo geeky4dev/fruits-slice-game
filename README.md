@@ -18,9 +18,9 @@ Features used:
 Flow Chart & Game Logic: 
 
 //click on start button    
-----------------//are we playing?        	
-----------------//no, we are no playing      
-------------------------//show trials left  
+----------------//are we playing?  
+----------------//no, we are no playing        
+------------------------//show trials left    
 ------------------------//chage button text to "reset game"  
 ------------------------//#1.create a random fruit  
 ------------------------//define a random step  
