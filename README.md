@@ -10,7 +10,7 @@ using the following technologies:
 Features used:    
 •	Box shadows to add some 3D effects to the page.   
 •	Use transitions for a nice interactivity and the best user experience.   
-•	Nice JQuery functions to change in HTML.
+•	Nice JQuery functions to change in HTML.  
 •	Show and hide elements and some functions to create timing events.   
 
 ![image](https://github.com/user-attachments/assets/a774b4a9-8400-442d-91ca-b79f370001d1)
