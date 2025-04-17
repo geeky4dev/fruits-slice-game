@@ -34,3 +34,4 @@ Flow Chart & Game Logic:
 //slice a fruit  
 	//play sound  
 	//explode fruit   
+![1](https://github.com/user-attachments/assets/64dfdc49-e6da-4c2b-8d8e-17732686194d)
