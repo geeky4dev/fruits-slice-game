@@ -1,6 +1,6 @@
 # fruits-slice-game    
 
-Game to slide random fruits falling randimly with three chances,  
+Game to slide random fruits falling randomly with three chances and score,  
 using the following technologies: 
 
 ✅ HTML       
